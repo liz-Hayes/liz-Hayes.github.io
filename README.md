@@ -1,7 +1,7 @@
 <h1>Exploring the Age of Olympic Athletes</h1>
 
 This narrative visualization explores the age of Olympic athletes. The
-narrative describes how the average athlete age has changed over time and variations from sport to sport. This visualization allows for user interaction to
+narrative describes how the average athlete age has changed over time and varies from sport to sport. This visualization allows for user interaction to
 discover more insights into the dataset.
 
 Follow this link to view the narrative visualization: https://liz-hayes.github.io./
